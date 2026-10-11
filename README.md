@@ -26,6 +26,8 @@ git checkout main
 
 # 4. Fir jab kabhi kaam karna hoga tab. jisse latest updated code jo mene ya kisse ne likha ho vo mil jaye
 
+git checkout main
+
 git pull origin main
 
 # 5. dusra timeline banaoge jisme 'second-task' ke jage kuch bhi name dal do timeline ka
