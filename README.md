@@ -8,7 +8,7 @@ git checkout -b changed-message
 
 # 2. fir jo bhi kaam karna hai kar lena for eg. backend/main.py me message change kar dena.
 
-git add.
+git add .
 
 # message me kuch bhi lik sakte ho describe karte hue jo tumne kiya
 
