@@ -35,3 +35,7 @@ git pull origin main
 git checkout -b second-task
 
 # fir wahi kaam karne ke badd git add . git commit wala sab jo upar likha tha
+
+# YOU can write git branch to show all git branches/timelines and the green highlited one will be the current branch\timeline that you are in. use git checkout name-of-branch to chnage branch.
+
+git branch
